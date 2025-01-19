@@ -34,4 +34,7 @@
 使用、複製、改変、再配布についてはMITライセンスに則るようお願いします。
 
 ## Reference
-[タッチレス空中インタフェースとしての3Dディスプレイの利用](https://www.ipsj.or.jp/dp/contents/publication/55/S1403-S07.html) - 会誌「情報処理」Vol.64 No.8（Aug. 2023）「デジタルプラクティスコーナー」
+- [タッチレス空中インタフェースとしての3Dディスプレイの利用](https://www.ipsj.or.jp/dp/contents/publication/55/S1403-S07.html) - 会誌「情報処理」Vol.64 No.8（Aug. 2023）「デジタルプラクティスコーナー」
+  - ホログラムの基本原理を参考に作成しました
+- [ホロスター フレームセット4244 - ホログラム株式会社](https://ho-lo.jp/products/hardware/holostar-fsm44/)
+  - Apple Watch の取り付け部分の設計を参考にしました
