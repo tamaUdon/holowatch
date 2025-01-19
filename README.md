@@ -1,4 +1,4 @@
-# holowatch
+# Holowatch
 3D像を空中に表示するApple Watch 拡張ツール
 
 <img width="173" alt="holowatch" src="https://github.com/user-attachments/assets/52b2e76e-26d8-48bf-bbcf-25c5c67872a6"/>
@@ -22,10 +22,11 @@
 <img width="173" alt="スクリーンショット 2025-01-19 15 56 18" src="https://github.com/user-attachments/assets/c9ef80e1-0911-4f48-956f-9a92aa1c3078" />
 
 1. "holowatch.stl" をダウンロードしスライサーソフトで開く (サンプルはCHITUBOXを利用)
-2. 任意の形式にスライスし印刷する (Mars 2 Pro は .ctb 形式にスライス) 。必要に応じてサポートをつけてください
-  a. 光造形の場合、垂直方向に出すと自重で歪みやすいです。斜め方向に出力する or 分割出力するなど工夫してください
-3. アクリル板を任意の長さに切り出し、反射板を取り付けます
-4. Apple Watch を装着し、動画像を再生します  
+2. 任意の形式にスライスし印刷する (Mars 2 Pro は .ctb 形式にスライス)   
+  a. 必要に応じてサポートをつけてください  
+  b. 光造形の場合、斜め方向に出力する or 分割出力するなど工夫してください。垂直方向に出すと自重で歪みやすいためです
+3. アクリル板を任意の長さに切り出し、反射板を取り付ける
+4. Apple Watch を装着し、動画像を再生する  
 【memo】 Apple Watch のバンドが通しづらい場合はヤスリで削って微調整してください
 
 ## Open to Improvements
